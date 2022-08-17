@@ -16,6 +16,7 @@ A new Flutter plugin project.
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
   s.ios.vendored_frameworks = "Klutter/Platform.framework" 
+  s.ios.vendored_frameworks = "Klutter/Platform.framework" 
   s.platform = :ios, '9.0'
 
   # Flutter.framework does not contain a i386 slice.
